@@ -1,0 +1,279 @@
+/*Font family*/
+/*border-sizes*/
+/*contacts icon align*/
+.icon-align, main #contact div #call-icon, main #contact div #mail-icon, main #contact div #chat-icon {
+  float: right;
+  position: relative;
+  right: 0px;
+  bottom: 50px; }
+
+/*aligning web page*/
+.align-1 {
+  width: 8.3333333333%;
+  float: left; }
+
+.align-2 {
+  width: 16.6666666667%;
+  float: left; }
+
+.align-3 {
+  width: 25%;
+  float: left; }
+
+.align-4 {
+  width: 33.3333333333%;
+  float: left; }
+
+.align-5 {
+  width: 41.6666666667%;
+  float: left; }
+
+.align-6 {
+  width: 50%;
+  float: left; }
+
+.align-7 {
+  width: 58.3333333333%;
+  float: left; }
+
+.align-8 {
+  width: 66.6666666667%;
+  float: left; }
+
+.align-9 {
+  width: 75%;
+  float: left; }
+
+.align-10 {
+  width: 83.3333333333%;
+  float: left; }
+
+.align-11 {
+  width: 91.6666666667%;
+  float: left; }
+
+.align-12 {
+  width: 100%;
+  float: left; }
+
+header {
+  height: 138px;
+  margin-bottom: 50px;
+  border-bottom: solid #8989896E; }
+  header nav div {
+    position: relative;
+    left: 909.54px;
+    bottom: 117px; }
+  header nav h1 {
+    width: 145px;
+    height: 30px;
+    font-family: "Jua";
+    font-weight: 400;
+    font-size: 24px;
+    padding: 27px 917.32px 25.8px 7.46px; }
+  header nav #label {
+    width: 40px;
+    height: 40px;
+    border-style: none;
+    border-radius: 5px;
+    background-color: #D9D9D994;
+    position: relative;
+    left: 848.54px;
+    bottom: 76px; }
+  header nav #plus {
+    width: 140px;
+    height: 40px;
+    border-style: none;
+    border-radius: 5px;
+    background-color: #55C875;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center; }
+  header nav p {
+    width: 92px;
+    height: 18px;
+    margin-left: 11px;
+    font-family: "Inter";
+    font-weight: 500;
+    font-size: 15px; }
+
+main #book {
+  height: 1230px; }
+  main #book .box {
+    width: 715px;
+    height: 90px;
+    border-radius: 10px;
+    border: 0.5px solid #8989896E;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+  main #book .column {
+    display: flex;
+    flex-direction: column;
+    padding-right: 79px; }
+  main #book div {
+    font-family: "Inter"; }
+    main #book div div img {
+      padding: 6.43px 53.72px 6.43px 9.28px; }
+    main #book div div .name {
+      width: 108px;
+      height: 24px;
+      font-weight: 600;
+      font-size: 20px;
+      padding: 0px 0px 0px 9.28px; }
+    main #book div div .name-maria {
+      width: 140px; }
+    main #book div div .job {
+      width: 111px;
+      height: 18px;
+      font-weight: 500;
+      font-size: 15px;
+      color: #7C7C7C; }
+    main #book div .number {
+      width: 115px;
+      height: 22px;
+      font-weight: 500;
+      font-size: 18px;
+      padding: 34px 72px 34px 0px; }
+    main #book div .mail {
+      width: 178px;
+      height: 22px;
+      font-weight: 600;
+      font-size: 18px;
+      color: #7C7C7C;
+      padding: 34px 19px 34px 0px; }
+main #contact {
+  height: 844px; }
+  main #contact #maria {
+    padding: 113px 133.63px 0px 132.11px; }
+  main #contact h1 {
+    width: 138px;
+    height: 23px;
+    font-family: "Jua";
+    font-weight: 400;
+    font-size: 18px;
+    padding: 0px 123.65px 5px 115.9px; }
+  main #contact #best {
+    padding: 0px 143.61px 81px 135.85px; }
+  main #contact p {
+    font-family: "Inter";
+    font-weight: 500;
+    font-size: 15px;
+    color: #7C7C7C; }
+  main #contact div {
+    border-style: none; }
+    main #contact div #call-icon {
+      text-align: center;
+      background-color: #89F2A6A8;
+      width: 43.66px;
+      height: 35px; }
+    main #contact div #mail-icon {
+      text-align: center;
+      background-color: #F2E189A8;
+      width: 43.66px;
+      height: 35px; }
+    main #contact div #chat-icon {
+      text-align: center;
+      background-color: #7FD1FFA8;
+      width: 43.66px;
+      height: 35px; }
+  main #contact #pho {
+    width: 140.97px;
+    height: 20.45; }
+  main #contact #No {
+    width: 120.99px;
+    height: 12.5px;
+    color: black; }
+  main #contact #email {
+    width: 127.23px;
+    height: 18px; }
+  main #contact #user {
+    width: 180.86px;
+    height: 18px;
+    color: black; }
+  main #contact #chat {
+    width: 43.66px;
+    height: 18px; }
+  main #contact #nickname {
+    width: 83.57px;
+    height: 18px;
+    color: black; }
+  main #contact #NAV {
+    width: 328.04px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: #EEEEEE; }
+    main #contact #NAV ul {
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      main #contact #NAV ul li {
+        flex: 1;
+        list-style: none;
+        height: 30px;
+        margin-top: 5px;
+        width: 100/3%; }
+        main #contact #NAV ul li .linked {
+          padding: 5px 17.05px 6px 17.46px;
+          border-radius: 10px; }
+        main #contact #NAV ul li .linked:hover {
+          background-color: #44DE6FF0; }
+        main #contact #NAV ul li a {
+          font-family: "Jua";
+          font-weight: 400;
+          font-size: 15px;
+          text-decoration: none;
+          width: 328.04/3 px;
+          color: #555555; }
+main .container-size {
+  width: 328.04px;
+  height: 50px; }
+
+aside {
+  height: 800px; }
+  aside #logo {
+    padding: 19px 270px 0px 26px; }
+  aside #profile img {
+    padding: 27px 117.52px 0px 109.52px; }
+  aside #profile p {
+    padding: 0px 56.52px 64px 47.52px; }
+  aside #calendar {
+    padding: 245px 89px 0px 26px; }
+  aside #phone {
+    padding: 10px 89px 0px 26px; }
+  aside #address {
+    padding: 10px 89px 0px 26px; }
+  aside h1 {
+    font-family: "Jua";
+    font-size: 35px;
+    font-weight: 400;
+    width: 82px;
+    height: 44px; }
+  aside #name {
+    font-family: "Jua";
+    font-size: 25px;
+    font-weight: 400;
+    margin: 8px 77.52px 3px 69.52px;
+    width: 175px;
+    height: 31px; }
+  aside p {
+    width: 213px;
+    height: 22px;
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 500;
+    color: #7C7C7C; }
+  aside div {
+    width: 263px;
+    height: 40px; }
+    aside div span {
+      width: 85px;
+      height: 18px;
+      font-family: "Inter";
+      font-size: 15px;
+      font-weight: 500;
+      color: #7C7C7C;
+      margin-left: 9px; }
+
+/*# sourceMappingURL=styles.css.map */

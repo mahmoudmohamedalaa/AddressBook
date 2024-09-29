@@ -1,0 +1,285 @@
+
+main{
+    #book{
+
+        height:1230px;
+
+  
+
+        .box{
+            width:715px;
+            height:90px;
+            border-radius: $border-10;
+            border:0.5px solid #8989896E;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+
+
+
+        }
+        .column{
+            display: flex;
+            flex-direction: column;
+            padding-right: 79px;
+
+            
+            
+            
+        }
+
+        div{
+            font-family: $default_font_family;
+
+
+
+            div{
+
+                img{
+                    padding:6.43px 53.72px 6.43px 9.28px;
+                }
+
+
+
+
+
+
+
+                .name{
+                    width:108px;
+                    height:24px;
+                    font-weight: $very-heavy;
+                    font-size: $font_size_20;
+                    padding:0px 0px 0px 9.28px;
+                    
+                    
+
+
+                }
+                .name-maria{
+                    width:140px;
+                    
+                }
+                .job{
+                    width:111px;
+                    height:18px;
+                    font-weight: $heavy;
+                    font-size: $font_size_15;
+                    color:$font-color;
+                    
+                    
+                }
+
+
+
+            }
+            .number{
+
+                width:115px;
+                height:22px;
+                font-weight: $heavy;
+                font-size: $font_size_18;
+                padding:34px 72px 34px 0px;
+                
+                
+
+
+            }
+            .mail{
+                width:178px;
+                height:22px;
+                font-weight: $very-heavy;
+                font-size: $font_size_18;
+                color:$font-color;
+                padding:34px 19px 34px 0px;
+                
+               
+
+
+
+            }
+        }
+    }
+
+    #contact{
+
+        height:844px;
+
+        #maria{
+            padding:113px 133.63px 0px 132.11px;
+        }
+
+        h1{
+            width:138px;
+            height:23px;
+            font-family: $header_font_family;
+            font-weight: $normal;
+            font-size: $font_size_18;
+            padding:0px 123.65px 5px 115.9px;
+        }
+        #best{
+            padding:0px 143.61px 81px 135.85px;
+        }
+        p{
+
+            font-family: $default_font_family;
+            font-weight: $heavy;
+            font-size: $font_size_15;
+            color:$font-color;
+
+
+        }
+
+        div{
+
+            
+
+                border-style: none;
+
+
+                
+                
+            
+            #call-icon{
+
+                text-align: center;
+                background-color: #89F2A6A8;
+                width:43.66px;
+                height:35px;
+                @extend .icon-align
+                
+
+
+            
+
+            }
+            #mail-icon{
+                text-align: center;
+                background-color: #F2E189A8;
+                width:43.66px;
+                height:35px;
+                @extend .icon-align
+ 
+
+            }
+            #chat-icon{
+                text-align: center;
+                background-color: #7FD1FFA8;
+                width:43.66px;
+                height:35px;
+                @extend .icon-align
+    
+
+            }
+        
+         
+        }
+        
+
+
+            #pho{
+                width:140.97px;
+                height:20.45;
+            }
+            #No{
+                width:120.99px;
+                height:12.5px;
+                color:black;
+
+            }
+            #email{
+                width:127.23px;
+                height:18px;
+            }
+            #user{
+                width:180.86px;
+                height:18px;
+                color:black
+            }
+            #chat{
+                width:43.66px;
+                height:18px;
+            }
+            #nickname{
+                width:83.57px;
+                height:18px;
+                color:black;
+            }
+       
+            #NAV{
+                width:328.04px;
+                height:35px;
+                border-radius:$border-10;
+                background-color: $nav-background;
+                
+
+
+
+                ul{
+                    display: flex;
+
+                    
+                    justify-content: center;
+                    align-items: center;
+                    
+
+
+
+                    li{
+                        flex:1;
+                        list-style: none;
+                        height:30px;
+                        margin-top:5px;
+                        width:100/3%;
+                       
+
+
+                        .linked{
+                            padding:5px 17.05px 6px 17.46px;
+                            border-radius: $border-10;
+
+
+                        }
+
+                        .linked:hover{
+
+                            background-color:#44DE6FF0;
+                        }
+    
+                        a{
+                            font-family: $header_font_family;
+                            font-weight: $normal;
+                            font-size: $font_size_15;
+                            text-decoration: none;
+                            width:328.04/3 px;
+                            color:$link-color;
+                            
+                        }
+
+
+
+
+                }
+                
+                
+
+
+
+                    
+
+
+                }
+
+            }
+    }
+    .container-size{
+        width:328.04px;
+        height:50px;
+
+
+
+    }
+
+
+}

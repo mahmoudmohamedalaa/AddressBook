@@ -1,0 +1,96 @@
+aside{
+
+    height:800px;
+   
+
+    #logo{
+        padding:19px 270px 0px 26px;
+    }
+
+
+    #profile{
+        img{
+            padding:27px 117.52px 0px 109.52px;
+        }
+        p{
+            padding:0px 56.52px 64px 47.52px;
+        }
+
+  
+    }
+    #calendar{
+        padding:245px 89px 0px 26px;
+    }
+    #phone{
+        padding:10px 89px 0px 26px;
+        
+    }
+    #address{
+
+        padding:10px 89px 0px 26px;
+
+
+
+    }
+    
+
+    h1{
+        font-family: $header_font_family;
+        font-size: $font_size_35;
+        font-weight: $normal;
+        width:82px;
+        height:44px;
+        
+        
+
+        
+    }
+    #name{
+        font-family: $header_font_family;
+        font-size: $font_size_25;
+        font-weight: $normal;
+        margin:8px 77.52px 3px 69.52px;
+        
+
+        width:175px;
+        height:31px;
+
+
+    }
+    p{
+        width:213px;
+        height:22px;
+        font-family: $default_font_family;
+        font-size: $font_size_18;
+        font-weight: $heavy;
+        color:$font-color;
+    }
+    div{
+
+        width:263px;
+        height:40px;
+
+
+
+
+
+        span{
+            width:85px;
+            height:18px;
+            font-family: $default_font_family;
+            font-size: $font_size_15;
+            font-weight: $heavy;
+            color:$font-color;
+            margin-left: 9px;
+        }
+
+
+    }
+
+
+
+
+
+
+
+}
